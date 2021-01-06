@@ -3,4 +3,4 @@ A simple python script for macOS which demonstrates a basic steganography techni
 
 Library required:
 - subprocess
-You can install the package by: ```bash pip install subprocess```
+You can install the package by: ```pip install subprocess```
